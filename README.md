@@ -1,2 +1,2 @@
-# KuickPlan_Website
- Event Management website
+# Kuickplan_website
+ Event planner website 
